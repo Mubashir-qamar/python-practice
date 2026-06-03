@@ -1,5 +1,3 @@
-
-
 shopping_list = []
 
 def add_item(item):
